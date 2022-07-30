@@ -20,7 +20,7 @@ function Projects() {
             <span>JavaScript</span>
           </div>
         </a>
-        <a href="#" className="flex-item react-calc">
+        <a href="https://kevno5.github.io/ProjectOne/" className="flex-item react-calc">
           <div>
             <h3>Park Locator</h3>
             <span>JavaScript</span>
